@@ -31,9 +31,6 @@ public class RegEx {
         return scanner.nextLine();
     }
 
-    //            -----------------IN MAIN EVERYTHING WORK---------------------
-    public static void main(String ... args) {
-        deleteTextUsingPatterns(scanLetter(), scanLine());
-    }
+
 
 }

@@ -11,10 +11,7 @@ import static ua.lviv.iot.RegEx.*;
 
 class MyScannerTest {
 
-    /*@Test
-    public void testDeleteFromTextFirst(){
-        deleteTextUsingPatterns(scanLetter(),scanLine());
-    }*/
+
 
     @Test
     public void testDeleteFromTextSecond() {
